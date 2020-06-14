@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.GoodsCards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.inputForm {  
+  margin: auto;
+  margin-top: 10%;
+  width: 900px;
+}
+
+.button {  
+  margin: 3px;
+  margin-top: 8px;
+}
