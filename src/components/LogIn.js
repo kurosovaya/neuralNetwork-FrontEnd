@@ -31,7 +31,7 @@ export class LogIn extends React.Component {
                             if (result.result != null) this.nextPath('/goods')
                             else
                             {
-                                alert("user doesn't exist! 228")
+                                alert("user doesn't exist! 228322")
                             }
                         }
                     }>Log In</Button>{' '}
